@@ -1,6 +1,6 @@
-What you need
-=================
-<h2>Transistor </h2>
+<h1>How to make</h1>
+
+<h2>1 Transistor </h2>
 <p>
 <img src="http://3.bp.blogspot.com/-dfccKe8aZoE/Ur0Cqlb6_CI/AAAAAAAAArg/bS6QjWm68Q0/s320/IMG_3026.JPG">
 </p>
@@ -13,7 +13,7 @@ Gate-to-Source Voltage(Vgs) : +/- 20VPB<br/>
 <p>
 <img src="http://2.bp.blogspot.com/-32pXmRmyWtE/Ur0TESe8R2I/AAAAAAAAAsc/NJqZDLMRDjo/s1600/IMG_3016.JPG" />
 </p>
-<h2>LED Strip </h2>
+<h2>2 LED Strip </h2>
 <p>
 <img src="http://1.bp.blogspot.com/-fBjNPLRl_2I/Ur0Lv8hUV-I/AAAAAAAAArw/Jja2mdgvNRY/s320/a_segment.jpeg" />
 </p>
@@ -26,3 +26,21 @@ Gate-to-Source Voltage(Vgs) : +/- 20VPB<br/>
 <p>
 <img src="http://4.bp.blogspot.com/-M5cYG-6tauo/Ur0OHbijzlI/AAAAAAAAAsI/2F1GnpSAY-A/s320/IMG_3011.JPG" />
 </p>
+<h2>3 Compose</h2>
+<p>
+<img src="http://2.bp.blogspot.com/-DKop7tEzarE/Ur0YclP7TxI/AAAAAAAAAs0/Iv_BOU-Fg70/s320/IMG_3017.JPG" />
+</p>
+<p>
+<img src="http://4.bp.blogspot.com/-u1jsupTghuA/Ur0YiHul49I/AAAAAAAAAs8/4sn0K444SjQ/s320/IMG_3018.JPG" />
+</p>
+<p>
+<img src="http://3.bp.blogspot.com/-uXzEA72FXL0/Ur0YquyNqkI/AAAAAAAAAtE/7_olC7cgABg/s320/IMG_3019.JPG" />
+</p>
+
+<h2>References</h2>
+<ul>
+<li>http://bildr.org/2012/03/rfp30n06le-arduino/</li>
+<li>http://www.alvyray.com/Papers/CG/hsv2rgb.htm</li>
+<li>http://beta.ivc.no/wiki/index.php/LED_Bandwidth_Monitor</li>
+</ul>
+
